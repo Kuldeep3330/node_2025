@@ -1,0 +1,17 @@
+{
+  "name": "deep-dive",
+  "version": "1.0.0",
+  "description": "node deep dive coding garage",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+  },
+  "keywords": [
+    "coding",
+    "javascript",
+    "node"
+  ],
+  "author": "coding garage",
+  "license": "ISC"
+}
